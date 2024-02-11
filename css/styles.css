@@ -1,12 +1,26 @@
 .header {
     display: flex;
     flex-direction: column;
+    background-color: #1F2937;
 }
 
 .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.header-logo, h1 {
+    color: #F9FAF8
+}
+
+.header-logo {
+    font-size: 24px;
+}
+
+ul, p {
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 ul {
@@ -19,4 +33,8 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+h1 {
+    font-size: 48px;
 }
