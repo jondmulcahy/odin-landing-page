@@ -13,9 +13,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-.header-content {
     margin-bottom: 140px
 }
 
@@ -35,7 +32,7 @@ ul, p {
 ul {
     list-style-type: none;
     display: flex;
-    gap: 16px
+    gap: 48px
 }
 
 .hero {
