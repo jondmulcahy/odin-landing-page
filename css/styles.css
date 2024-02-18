@@ -15,6 +15,10 @@ body {
     justify-content: space-between;
 }
 
+.header-content {
+    margin-bottom: 140px
+}
+
 .header-logo, h1 {
     color: #F9FAF8
 }
