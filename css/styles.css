@@ -49,3 +49,8 @@ button {
     padding: 8px 32px;
     border-radius: 10px;
 }
+
+.img-placeholder {
+    background-color: gray;
+    padding: 120px 240px
+}
